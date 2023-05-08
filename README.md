@@ -1,4 +1,4 @@
-## Oi eu sou o Pedro, estudante de Física na Ufes e programação!
+## Oi eu sou o Pedro, estudante de ADS na UVV!
 
 <div align="center">
   <a href="https://github.com/hgpedro">
