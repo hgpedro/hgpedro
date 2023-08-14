@@ -1,4 +1,4 @@
-## Oi eu sou o Pedro, estudante de ADS na UVV!
+## Oi eu sou o Pedro, estudante de ADS na UVV!!
 
 <div>
   <a href="https://github.com/hgpedro">
